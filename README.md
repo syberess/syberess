@@ -1,20 +1,21 @@
 # 👋 Merhaba, ben Esma Polat (syberess)
 
 🎓 İnönü Üniversitesi **Bilgisayar Mühendisliği** mezunuyum (GPA: 3.33/4.00).  
-💻 Backend geliştirme, yapay zekâ, doğal dil işleme (NLP) ve veri odaklı sistemler üzerine çalışıyorum.  
-🚀 Hem **.NET** hem de **Laravel (PHP)** ekosisteminde üretim seviyesinde projeler geliştirdim.  
-🌱 Amacım, yazılım mimarisi, verimlilik ve AI teknolojilerini birleştirerek ölçeklenebilir çözümler üretmek.
+💻 Backend geliştirme, yapay zekâ ve veri odaklı sistemler üzerine çalışıyorum.  
+🚀 Hem **.NET** hem de **Laravel (PHP)** ekosistemlerinde üretim seviyesinde RESTful API’ler geliştiriyorum.  
+🌱 Amacım, yazılım mimarisi, yapay zekâ ve modern backend teknolojilerini birleştirerek ölçeklenebilir çözümler üretmek.
 
 ---
 
 ## 🧠 Hakkımda
 
-> “Kod yazmayı sadece bir meslek değil, bir sistem kurma sanatı olarak görüyorum.”  
+> “Kod yazmak, sistemler arasında kusursuz iletişim kurma sanatıdır.”  
 
-- MVC, Clean Architecture ve katmanlı yapı prensiplerine bağlı çalışırım.  
+- MVC, Clean Architecture ve RESTful yapı prensiplerine bağlı çalışırım.  
 - Laravel, .NET Core ve Python ekosistemlerinde tam CRUD, Auth ve API sistemleri geliştiririm.  
-- Yapay zekâ modellerini backend sistemlerle entegre ederek üretken çözümler tasarlamayı seviyorum.  
-- Kod yazarken performans, güvenlik ve sürdürülebilirlik üçlüsünü temel alırım.  
+- JWT kimlik doğrulama, middleware ve güvenlik katmanlarını aktif olarak uygularım.  
+- Yapay zekâ modellerini backend sistemlerle entegre etmeyi severim.  
+- Kod yazarken performans, güvenlik ve sürdürülebilirlik üçlüsünü ön planda tutarım.  
 
 ---
 
@@ -35,9 +36,11 @@
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=api&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Blade](https://img.shields.io/badge/Blade_Templates-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=api&logoColor=white)
 ![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
@@ -60,24 +63,27 @@
 
 ---
 
-### 🔹 Araçlar & Altyapı
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-
----
-
 ## 🔥 Öne Çıkan Projeler
 
-- [**Laravel Task Manager**](https://github.com/syberess/laravel-task-manager) – Laravel 12 ile geliştirilmiş tam kapsamlı görev yönetimi uygulaması (MVC, Enum, Auth, Seeder, Request Validation).  
-- [**BlogV1**](https://github.com/syberess/BlogV1) – ASP.NET Core MVC tabanlı SEO uyumlu blog platformu.  
-- [**AI MoodMate (Motivasyonum.AI)**](https://github.com/syberess/MoodMate) – NLP tabanlı duygu analizi ve öneri sistemi.  
-- [**Recipe Suggestion System**](https://github.com/syberess/Recipe-Suggestion) – AI destekli yemek tarifi öneri sistemi.  
-- [**NetCoreAI – AI Swiss-Knife**](https://github.com/syberess/NetCoreAI) – WPF tabanlı çok amaçlı yapay zekâ uygulaması.  
+- [**Laravel_JWT_REST_API**](https://github.com/syberess/Laravel_JWT_REST_API)  
+  **Laravel 12 + JWT Authentication** ile geliştirilmiş güvenli RESTful API.  
+  Kullanıcı kimlik doğrulaması, token tabanlı erişim ve tam CRUD yapısını içerir.  
+
+- [**Laravel_Blog_App**](https://github.com/syberess/Laravel_Blog_App)  
+  Laravel 12 tabanlı, **Admin Paneli**, **Kategori Yönetimi**, **Yorum Sistemi** ve **Kullanıcı Rolleri** içeren dinamik blog platformu.  
+  Gerçek dünya uygulaması olarak tam MVC yapısı, çok katmanlı kontrol akışı ve veritabanı ilişkilerini içerir.  
+
+- [**Laravel Task Manager**](https://github.com/syberess/laravel-task-manager)  
+  Laravel 12 ile geliştirilmiş tam kapsamlı görev yönetimi uygulaması (Enum, Auth, Seeder, Validation).  
+
+- [**BlogV1**](https://github.com/syberess/BlogV1)  
+  ASP.NET Core MVC tabanlı SEO uyumlu blog platformu.  
+
+- [**AI MoodMate (Motivasyonum.AI)**](https://github.com/syberess/MoodMate)  
+  NLP tabanlı duygu analizi ve öneri sistemi (Python + Flask + MongoDB).  
+
+- [**NetCoreAI – AI Swiss-Knife**](https://github.com/syberess/NetCoreAI)  
+  WPF tabanlı çok amaçlı yapay zekâ masaüstü uygulaması.  
 
 ---
 

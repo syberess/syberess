@@ -79,8 +79,10 @@
 - [**BlogV1**](https://github.com/syberess/BlogV1)  
   ASP.NET Core MVC tabanlı SEO uyumlu blog platformu.  
 
-- [**AI MoodMate (Motivasyonum.AI)**](https://github.com/syberess/MoodMate)  
-  NLP tabanlı duygu analizi ve öneri sistemi (Python + Flask + MongoDB).  
+- - [**Flask_Projem**](https://github.com/syberess/Flask_Projem)  
+  Flask tabanlı bir web uygulaması. RESTful API yapısına uygun olarak tasarlanmış olup Python altyapısı, Jinja2 template sistemi ve veritabanı entegrasyonu içerir.  
+  Basit ve hızlı backend geliştirme pratiklerini göstermek amacıyla hazırlanmıştır.  
+
 
 - [**NetCoreAI – AI Swiss-Knife**](https://github.com/syberess/NetCoreAI)  
   WPF tabanlı çok amaçlı yapay zekâ masaüstü uygulaması.  
